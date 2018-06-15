@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-1249.000000, -125.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Nav" transform="translate(156.000000, 59.000000)">
+                <g id="twitch" transform="translate(1080.000000, 53.000000)">
+                    <path d="M15.089,13 L13.525,17.175 L13.525,33.869 L19.261,33.869 L19.261,37 L22.393,37 L25.52,33.868 L30.215,33.868 L36.475,27.61 L36.475,13 L15.089,13 Z M17.175,15.085 L34.39,15.085 L34.39,26.564 L30.738,30.216 L25,30.216 L21.873,33.343 L21.873,30.216 L17.175,30.216 L17.175,15.085 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
